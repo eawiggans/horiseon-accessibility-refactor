@@ -11,7 +11,7 @@ The webpage can be navigated with or without a screen reader and will appear as 
 
 ![screenshot of webpage](assets/images/01-html-css-git-homework-demo.png)
 
-and can be viewed live [here](urlgoeshere).
+and can be viewed live [here](https://eawiggans.github.io/horiseon-accessibility-refactor/).
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
